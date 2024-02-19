@@ -38,7 +38,7 @@
 }
 .button:hover{
     background-color: rgb(15, 116, 15);
-    color:yellow;
+    color:white;
     border:none;
     cursor: pointer;
 }
